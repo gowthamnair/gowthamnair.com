@@ -1,0 +1,31 @@
+SkillType,Skill,EdgeValue
+Coding,R,3
+Coding,SQL,4
+Tech,Machine Learning,2
+Coding,Python,2
+Tech,DataVisualization,3
+DataVisualization,Tableau,3
+DataVisualization,R,4
+DataVisualization,D3,1
+Tech,Coding,3
+Business,Marketing,4
+Business,Presentations,5
+Tech,Product Marketing,4
+Presentations,DataVisualization,3
+Business,Analytics,4
+Tech,Analytics,4
+Analytics,Machine Learning,2
+Analytics,Insight Generation,4
+Business,Growth Hacking,3
+Insight Generation,Growth Hacking,4
+Marketing,Digital Campaigns,3
+Marketing,Product Marketing,3
+Digital Campaigns,Social Media,4
+Digital Campaigns,Search Ads,2
+Analytics,KPI Definition,4
+Business,KPI Definition,4
+Business,Dashboard and Reports,3
+Analytics,Dashboard and Reports,3
+Presentations,Dashboard and Reports,3
+Growth Hacking,Gamification,4
+Growth Hacking,Product Design,3
