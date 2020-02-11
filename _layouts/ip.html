@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- assign _ip = site.ip | sort: 'date' | reverse -%}
+{%- assign _ip = site.posts | sort: 'date' | reverse -%}
 {%- include header.html scrolly_nav=_ip -%}
 <!-- Main -->
 <div id="main">
