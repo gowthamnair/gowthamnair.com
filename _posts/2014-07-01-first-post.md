@@ -1,5 +1,5 @@
 ---
-title: MuSigma - Data Scientist
+title: Musigma - Data Scientist
 author: Gowtham Nair
 ---
 
